@@ -121,33 +121,6 @@ and how much patience input validation actually requires.
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Hospital Management System
-> PHP · SQL · HTML/CSS · JavaScript
-
-Web app for managing patients, doctors, appointments, stock, and dashboards.
-Authentication, database interaction, and UI improvements across multiple modules.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🕸 Graph & Network Algorithms
-> C · Algorithms · Graph Theory
-
-Graph representation, spanning trees, Prim's algorithm,
-connectivity analysis, and STP priority basics.
-Pure algorithmic work — no hand-holding from frameworks.
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Graph_Theory-FF6B6B?style=flat-square)
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 📊 GitHub Stats
