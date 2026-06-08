@@ -13,8 +13,6 @@
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=Abderrahim-BOUHRAOUA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&rank_icon=github" />
-
 **`abderrahim bouhraoua`** — BUT Informatique @ IUT de Strasbourg
 
 Computer Science student obsessed with how real software is built —
@@ -26,8 +24,6 @@ real Git conflicts, and real lessons.
 - 🔭 Currently working on cleaner C# architecture & backend fundamentals
 - 🌱 Learning advanced Java OOP, database design, cloud & DevOps basics
 - ⚡ I learn best by building things that actually have to work
-
-<br clear="right"/>
 
 ---
 
@@ -118,8 +114,7 @@ and how much patience input validation actually requires.
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
+</table>
 
 ---
 
@@ -127,12 +122,13 @@ and how much patience input validation actually requires.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Abderrahim-BOUHRAOUA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahim-BOUHRAOUA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abderrahim-BOUHRAOUA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahim-BOUHRAOUA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Abderrahim-BOUHRAOUA&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=4a5568)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abderrahim-BOUHRAOUA&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=4a5568)](https://git.io/streak-stats)
 
 </div>
 
@@ -142,7 +138,7 @@ and how much patience input validation actually requires.
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abderrahim-BOUHRAOUA&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abderrahim-BOUHRAOUA&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&hide_border=true)](https://github.com/Abderrahim-BOUHRAOUA)
 
 </div>
 
